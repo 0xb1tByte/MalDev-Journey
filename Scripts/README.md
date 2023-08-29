@@ -9,7 +9,7 @@ Sharing my own scripts to perform the same techniques mentioned in the course bu
       - [`Process32Next`](https://learn.microsoft.com/en-us/windows/win32/api/tlhelp32/nf-tlhelp32-process32next)
     - Usage : `python ProcEnum.py <processName>`
     - Example : `python ProcEnum.py notepad.exe`
-    - requirments : `tabulate` library needs to be installed, you can install it using `pip install tabulate`
+    - requirments : `ctypes` & `tabulate` libraries need to be installed
     - sample output : 
 
 ![Alt text](https://github.com/0xb1tByte/MalDev-Journey/blob/main/Scripts/procEnum_output.png)
