@@ -9,4 +9,4 @@
     - requirments : `tabulate` library needs to be installed, you can install it using `pip install tabulate`
     - sample output : 
 
-![Alt text](https://github.com/0xb1tByte/MalDev-Journey/blob/main/procEnum_output.png)
+![Alt text](https://github.com/0xb1tByte/MalDev-Journey/blob/main/Scripts/procEnum_output.png)
