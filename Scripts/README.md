@@ -1,4 +1,7 @@
-# Scripts
+# Description
+Sharing my own scripts to perform the same techniques mentioned in the course but using `python` 
+
+## Module #28
 - `ProcEnum.py` : Processes Enumeration using Win APIs
    - Win API functions used to perform process enumeration:
       - [`CreateToolhelp32Snapshot`](https://learn.microsoft.com/en-us/windows/win32/api/tlhelp32/nf-tlhelp32-createtoolhelp32snapshot)
